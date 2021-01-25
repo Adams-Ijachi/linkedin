@@ -6,7 +6,7 @@ from  dotenv import load_dotenv
 load_dotenv()
 
 
-profile_id = 'fi8Aj4A9Gg' ## PUT IN THE PROFILE ID
+profile_id = '??' ## PUT IN THE PROFILE ID
 
 ###IT READS FROM THE TXT FILE
 f = open("text.txt", "r")
